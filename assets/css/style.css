@@ -1,0 +1,28 @@
+body {
+    background: #f2f2f2;
+    font-family: 'Roboto', sans-serif;
+}
+.form_wrapper {
+    max-width: 500px;
+    padding: 10px;
+    background: #fff;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 4px;
+}
+.white_box {
+    background: #fff;
+    padding: 10px;
+    font-size: 108px;
+}
+.msg-user {
+    background: #FD6D6D;
+    float: right;
+    width: 500px;
+    border-radius: 6px;
+    padding: 15px;
+}
+.red_mark {
+    background: red;
+    width: 30px;
+}
